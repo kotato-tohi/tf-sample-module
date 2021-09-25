@@ -1,3 +1,4 @@
+```
 .
 ├── README.md
 ├── check.sh
@@ -25,3 +26,4 @@
 └── variables.tf
 
 5 directories, 19 files
+```
