@@ -1,0 +1,10 @@
+variable "vpc_id" {}
+variable "cidr_block" {}
+variable "az" {}
+variable "az_list" {}
+variable "pub_ip" {}
+variable "tag_name" {}
+variable "tag_cost" {}
+variable "pub_sbn_cnt" {}
+variable "pvt_sbn_cnt" {}
+variable "igw" {}
