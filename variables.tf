@@ -1,0 +1,11 @@
+variable "profile" {}
+variable "region" {}
+variable "az" {}
+variable "az_list" {}
+variable "tag_name" {}
+variable "tag_cost" {}
+variable "pub_sbn_cnt" {}
+variable "pvt_sbn_cnt" {}
+variable "ec2_ami" {}
+variable "ec2_type" {}
+variable "ec2_key" {}
