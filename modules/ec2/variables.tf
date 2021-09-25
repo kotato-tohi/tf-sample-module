@@ -1,0 +1,9 @@
+variable "ec2_instance" {}
+variable "ec2_ami" {}
+variable "ec2_type" {}
+variable "ec2_sgs" {}
+variable "ec2_subnet" {}
+variable "ec2_key" {}
+variable "ec2_pub_ip" {}
+variable "tag_name" {}
+variable "tag_cost" {}
